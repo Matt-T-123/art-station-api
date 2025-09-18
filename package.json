@@ -1,0 +1,26 @@
+{
+  "name": "artstation-api",
+  "version": "1.0.0",
+  "description": "Unofficial artstation api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matt-T-123/art-station-api.git"
+  },
+  "keywords": [
+    "artstation",
+    "api"
+  ],
+  "author": "Matt.T",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Matt-T-123/art-station-api/issues"
+  },
+  "homepage": "https://github.com/Matt-T-123/art-station-api#readme",
+  "dependencies": {
+    "puppeteer": "^24.20.0"
+  }
+}
