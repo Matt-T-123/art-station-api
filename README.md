@@ -8,11 +8,19 @@ Feel free to collaborate :)
 
 ```bash
 npm install artstation-api
+```
 
 # API Functions
 
 ```javascript
 getUserProfile(username, options = {})
+```
+```javascript
 getProject(projectId, options = {})
+```
+```javascript
 searchProjects(query, page = 1, options = {})
+```
+```javascript
 closeBrowser()
+```
